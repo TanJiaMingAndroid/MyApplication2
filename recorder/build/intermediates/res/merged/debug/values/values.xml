@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/StudioWorkSpace01/MyApplication2/recorder/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">录音</string>
+    <string name="hello">Hello World, RecorderActivity!</string>
+</resources>
